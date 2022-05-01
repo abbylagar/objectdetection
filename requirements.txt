@@ -10,5 +10,6 @@ torchvision
 Image
 pytorch-lightning 
 torchmetrics
+gdown
 
 
