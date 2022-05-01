@@ -84,6 +84,7 @@ def unzipfile():
     url = 'https://drive.google.com/u/0/uc?id=1McsUu3Cp2-mKfJY_n3XAXNNAbCJwtRjQ'
     #output file
     output = 'mymodel.zip'
+    gdown.download(url, output, quiet=False)
     cur_dir =os.getcwd()
     path_to_zip_file = cur_dir +"/"+ output
     with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
