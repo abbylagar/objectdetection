@@ -1,0 +1,14 @@
+Cython==0.29.28
+pycocotools==2.0.4
+wandb
+numpy
+matplotlib
+pathlib==1.0.1
+Pillow==7.1.2
+torch
+torchvision
+Image
+pytorch-lightning 
+torchmetrics
+
+
