@@ -85,7 +85,7 @@ def unzipfile():
     #output file
     output = 'mymodel.zip'
     cur_dir =os.getcwd()
-    path_to_zip_file = cur_dir + output
+    path_to_zip_file = cur_dir +"/"+ output
     with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
         zip_ref.extractall("./weights/")
         
