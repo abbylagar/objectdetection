@@ -23,7 +23,7 @@ steps before training and testing the model
 
 ### 1. Clone the repository:
 ```
-! git clone link/to/your/repo
+!git clone https://github.com/abbylagar/objectdetection.git
 ```
 
 ### 2. Go to your project directory
