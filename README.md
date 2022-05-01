@@ -37,6 +37,8 @@ steps before training and testing the model
 ```
 
 ### Testing the model
+Datasets and pretrained model during this part.
+
 Sample run in the Drinks_detection.ipynb
 ```
 !python3 test.py
