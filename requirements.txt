@@ -3,7 +3,6 @@ pycocotools==2.0.4
 wandb
 numpy
 matplotlib
-pathlib
 Pillow==7.1.2
 torch
 torchvision
