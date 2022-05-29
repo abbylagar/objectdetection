@@ -1,3 +1,4 @@
+matplotlib
 wandb
 Image
 pytorch-lightning 
@@ -11,5 +12,6 @@ numpy
 einops
 wandb
 tk
-PyAudio
+pipwin
+PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 wave
