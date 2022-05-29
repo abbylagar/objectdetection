@@ -109,7 +109,7 @@ class InferAudio:
             samps =samps.astype(np.float32)
 
             #print(samps.dtype)
-            maxi_new=max(abs(samps))
+            maxi=max(abs(samps))
             
 
             samps=samps/maxi
