@@ -10,6 +10,6 @@ argparse
 numpy
 einops
 wandb
-tkinter
+tk
 PyAudio
 wave
